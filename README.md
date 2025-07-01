@@ -145,6 +145,9 @@
         <a href="https://drive.google.com/file/d/1dbiCpb2bz-N80J7KH8Wulh0q4p1TyCka/view?usp=drive_link" target="_blank" style="margin-left: 8px;">📄 Paper</a>
       </li>
     </ul>
+    <div style="font-size: 14px; margin-top: 8px;">
+      🔗 <a href="https://github.com/zangzoo/BrainWorks-Web" target="_blank">GitHub Repository (논문 코드 저장소)</a>
+    </div>
   </div>
 </div>
 
