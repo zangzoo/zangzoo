@@ -76,9 +76,9 @@
   <h2>🏅 Stats</h2>
   <div align="left">
     <!-- 활동 통계 -->
-    <img src="https://github-readme-stats-murex-five-76.vercel.app/api?username=zangzoo&show_icons=true&count_private=true&hide_rank=true&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats-zangzoos-projects.vercel.app/api?username=zangzoo&show_icons=true&count_private=true&hide_rank=true&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000" />
     <!-- 언어 비율 -->
-    <img src="https://github-readme-stats-murex-five-76.vercel.app/api/top-langs/?username=zangzoo&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats-zangzoos-projects.vercel.app/api/top-langs/?username=zangzoo&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000" />
   </div>
 </div>
 
