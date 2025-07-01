@@ -78,9 +78,9 @@
     <a href="mailto:jangjang0022@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
-    <a href="https://rocky-passive-c54.notion.site/4e64f4fa18dc46ec8b9e1fcc29278f19">
+<!--     <a href="https://rocky-passive-c54.notion.site/4e64f4fa18dc46ec8b9e1fcc29278f19">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-    </a>
+    </a> -->
   </div>
 </div>
 
