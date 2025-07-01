@@ -71,20 +71,6 @@
 
 <hr style="border: none; border-top: 1px solid #d8dee4; margin: 40px 0;" />
 
-<!-- Contact -->
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact Me</h2>
-  <div style="margin-top: 12px;">
-    <a href="mailto:jangjang0022@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-    </a>
-<!--     <a href="https://rocky-passive-c54.notion.site/4e64f4fa18dc46ec8b9e1fcc29278f19">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-    </a> -->
-  </div>
-</div>
-
-<hr style="border: none; border-top: 1px solid #d8dee4; margin: 40px 0;" />
 
 <!-- Stats -->
 <div style="text-align: left;">
