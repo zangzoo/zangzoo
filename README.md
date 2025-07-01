@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=240&text=JIWOO's%20GITHUB&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=240&text=JIWOO's%20GITHUB&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
 <!-- Education -->
