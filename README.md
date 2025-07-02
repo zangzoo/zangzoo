@@ -100,7 +100,7 @@
         <a href="https://github.com/zangzoo/Hand-Bone-Semantic-Segmentation" target="_blank" style="margin-left: 8px;">🔗 GitHub</a>
       </li>
       <li>
-        HTP 심리상담 서비스&nbsp;
+        HTP 기반 AI 심리상담 도우미&nbsp;
         <a href="https://github.com/zangzoo/HTP-Drawing-Analysis" target="_blank" style="margin-left: 8px;">🔗 GitHub</a>
       </li>
       <li>
