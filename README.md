@@ -20,12 +20,8 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📚 Experience</h2>
   <div style="font-weight: 700; font-size: 15px; color: #282d33; margin-top: 8px;">
     네이버 부스트캠프 AI Tech 7기 – Computer Vision 트랙 <span style="font-weight: 500;">(2024.08 ~ 2025.02)</span><br/><br/>
-    <ul style="padding-left: 20px; font-weight: 400; margin: 0;">
-      <li>딥러닝(PyTorch), 모델 평가, 생성형 AI, 모델 배포 등 실무 중심의 AI 엔지니어링 커리큘럼 이수</li>
-    </ul>
   </div>
 </div>
-
 <hr style="border: none; border-top: 1px solid #d8dee4; margin: 40px 0;" />
 
 <!-- Tech Stack -->
