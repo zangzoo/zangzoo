@@ -134,12 +134,12 @@
       <li>
         <strong>Prognosis Prediction of Alzheimer’s Disease: Multi-Horizon MMSE Prediction from MRI and Metadata</strong><br/>
         <span style="font-size: 14px;">KIPS ACK 2024 (Bronze Prize), pp. 686–687</span>
-        🔗 <a href="https://drive.google.com/file/d/1TAbvF0PwFMSDRorrUg6_eCjNLEYiTP4O/view?usp=drive_link" target="_blank">Paper</a> | 🔗 <a href="https://github.com/zangzoo/BrainWorks-Web" target="_blank">Code</a>
+        🔗 <a href="https://drive.google.com/file/d/1TAbvF0PwFMSDRorrUg6_eCjNLEYiTP4O/view?usp=drive_link" target="_blank">Paper</a> | 🔗 <a href="https://github.com/zangzoo/BrainWorks-AI" target="_blank">Code</a>
       </li>
       <li>
         <strong>A Deep Learning Model for Early Diagnosis of Alzheimer's Disease Using Multi-Slice MRI and Metadata Integration</strong><br/>
         <span style="font-size: 14px;">KOSMI 2024 Fall Conference (Poster)</span>
-        🔗 <a href="https://drive.google.com/file/d/1dbiCpb2bz-N80J7KH8Wulh0q4p1TyCka/view?usp=drive_link" target="_blank">Paper</a> | 🔗 <a href="https://github.com/zangzoo/BrainWorks-Web" target="_blank">Code</a>
+        🔗 <a href="https://drive.google.com/file/d/1dbiCpb2bz-N80J7KH8Wulh0q4p1TyCka/view?usp=drive_link" target="_blank">Paper</a> | 🔗 <a href="https://github.com/zangzoo/BrainWorks-AI" target="_blank">Code</a>
       </li>
     </ul>
   </div>
